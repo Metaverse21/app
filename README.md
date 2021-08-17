@@ -1,4 +1,4 @@
-🏗 Scaffold-ETH - 🎟 Simple NFT Example
+🏗 METAVERSE - 🎟 V01 NFT EXCHANGER
 Build, mint, and send around your own ERC721!
 
 🏃‍♀️ Quick Start
@@ -15,7 +15,7 @@ cd simple-nft-example
 yarn chain
 in a third terminal window:
 
-cd simple-nft-example
+cd NFTMETAVERSE
 yarn deploy
 📱 Open http://localhost:3000 to see the app
 
@@ -134,7 +134,7 @@ nft14
 nft15
 
 Documentation
-For a more in-depth explanation, documentation, quick start guide, tutorials, tips and many more resources, visit our documentation site: docs.scaffoldeth.io
+For a more in-depth explanation, documentation, quick start guide, tutorials, tips and many more resources, visit our documentation site: METAVERSE.IO
 
 💬 Support Chat
-Join the telegram support chat 💬 to ask questions and find others building with 🏗 scaffold-eth!
+
