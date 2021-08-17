@@ -1,21 +1,21 @@
-🏗 METAVERSE - 🎟 V01 NFT EXCHANGER
+🏗 METAVERSE - 🎟 V0.1 NFT P2P EXCHANGER
 Build, mint, and send around your own ERC721!
 
 🏃‍♀️ Quick Start
 Required: Node plus Yarn and Git
 
-git clone https://github.com/austintgriffith/scaffold-eth.git simple-nft-example
-cd simple-nft-example
-git checkout simple-nft-example
+git clone https://github.com/Metaverse21/app
+cd app
+git checkout app
 yarn install
 yarn start
 in a second terminal window:
 
-cd simple-nft-example
+cd ap
 yarn chain
 in a third terminal window:
 
-cd NFTMETAVERSE
+cd app
 yarn deploy
 📱 Open http://localhost:3000 to see the app
 
